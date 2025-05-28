@@ -136,7 +136,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       const Text("Don't have an account?"),
                       TextButton(
                         onPressed: () {
-                          // Navigate to register screen if implemented;
+              
                         },
                         child: const
                         Text(
